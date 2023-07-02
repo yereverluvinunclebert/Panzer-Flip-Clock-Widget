@@ -4,14 +4,12 @@ Dieselpunk Desktop Flip Clock widget, written in Javascript and XML for the Yaho
 Widget (Konfabulator) Engine. Created for XP, Vista, Win7, 8, 10+ as well as the 
 Apple Mac.
 
-
+![panzerFlipClock750](https://github.com/yereverluvinunclebert/Panzer-Flip-Clock-Widget/assets/2788342/57797733-f915-4526-a0c7-29acdef3894f)
 
 An Dieselpunk Desktop Flip Clock Clock widget communities. This Panzer widget is 
 a pretty Yahoo widget for your desktop. Functional and gorgeous at the same time. 
 The graphics are my own, I took original inspiration from a clock face by Italo 
 Fortana. It is mostly my code with some solid help from Harry Whitfield. 
-
-
 
 Right clicking will bring up a menu of options. Double-clicking on the widget 
 will cause a personalised Windows application to fire up. The first time you run 
@@ -24,7 +22,7 @@ the Yahoo Widget Konfabulator engine. The engine interprets the javascript and
 creates the widget according to the XML description and using the images you 
 provide. 
 
-
+![panzer-flipflop-desktop01](https://github.com/yereverluvinunclebert/Panzer-Flip-Clock-Widget/assets/2788342/a9bb092f-a653-4808-a38f-310a76da0c41)
 
 This widget was created with the serious coding skills of Harry Whitfield. I 
 supplied the graphics, the original code, the concept and idea and steered the 
@@ -104,4 +102,6 @@ Tested on :
  With regard to the commercial use of incorporated images, permission and a
  licence would need to be obtained from the original owner and creator, ie. me.
  
+ ![panzer-flip-clock-help](https://github.com/yereverluvinunclebert/Panzer-Flip-Clock-Widget/assets/2788342/fce72909-173c-4e42-8a87-b6344f8d9d94)
+
 
