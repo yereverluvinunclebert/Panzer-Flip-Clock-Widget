@@ -6,7 +6,7 @@ Apple Mac.
 
 ![panzerFlipClock750](https://github.com/yereverluvinunclebert/Panzer-Flip-Clock-Widget/assets/2788342/57797733-f915-4526-a0c7-29acdef3894f)
 
-An Dieselpunk Desktop Flip Clock Clock widget communities. This Panzer widget is 
+This Panzer widget is 
 a pretty Yahoo widget for your desktop. Functional and gorgeous at the same time. 
 The graphics are my own, I took original inspiration from a clock face by Italo 
 Fortana. It is mostly my code with some solid help from Harry Whitfield. 
@@ -25,10 +25,9 @@ provide.
 ![panzer-flipflop-desktop01](https://github.com/yereverluvinunclebert/Panzer-Flip-Clock-Widget/assets/2788342/a9bb092f-a653-4808-a38f-310a76da0c41)
 
 This widget was created with the serious coding skills of Harry Whitfield. I 
-supplied the graphics, the original code, the concept and idea and steered the 
-widget toward its final goal. I also tested the widget, added extra 
+supplied the graphics, and some of the code. I also tested the widget, added extra 
 functionality and fettled the code for release. Harry built the core 
-functionality to my spec. but just did it far better than I would ever have 
+functionality but just did it far better than I would ever have 
 done!
  
 Built using: 
